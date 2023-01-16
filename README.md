@@ -1,5 +1,5 @@
 # Class-Object
-1/ Số phức:\n
+1/ Số phức:
 z1 = a+bi
 z2 = c+di
 Cộng: z1 + z2 = (a+c) + (b+d)i
