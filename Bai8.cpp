@@ -123,6 +123,6 @@ void intFactor(int x)
 
 int main()
 {
-	intFactor(21219);
+	intFactor(750);
 	return 0;
 }
